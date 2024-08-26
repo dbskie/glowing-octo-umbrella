@@ -1,1 +1,32 @@
-{}
+{
+  "mid.$gABqaEu6fcEuXv5HlJGRjkxUTobFa": {
+    "type": "message",
+    "senderID": "61555315687217",
+    "body": ".",
+    "threadID": "7487755497992267",
+    "messageID": "mid.$gABqaEu6fcEuXv5HlJGRjkxUTobFa",
+    "attachments": [],
+    "mentions": {},
+    "timestamp": "1724669271332",
+    "isGroup": true,
+    "participantIDs": [
+      "61555315687217",
+      "61554594604208"
+    ]
+  },
+  "mid.$gABqaEu6fcEuXv5IKp2Rjkx6q442o": {
+    "type": "message",
+    "senderID": "61555315687217",
+    "body": ".help",
+    "threadID": "7487755497992267",
+    "messageID": "mid.$gABqaEu6fcEuXv5IKp2Rjkx6q442o",
+    "attachments": [],
+    "mentions": {},
+    "timestamp": "1724669280935",
+    "isGroup": true,
+    "participantIDs": [
+      "61555315687217",
+      "61554594604208"
+    ]
+  }
+}
